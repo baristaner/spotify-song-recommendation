@@ -18,7 +18,7 @@ A song recommendation system using nodejs and spotify api based on the users spo
   
 ## Screenshots
 
-![Swagger](https://raw.githubusercontent.com/baristaner/spotify-song-recommendation/master/src/swagger.jpg)
+![Swagger](https://raw.githubusercontent.com/baristaner/spotify-song-recommendation/master/assets/swagger.jpg)
 
   
 ## API Usage
