@@ -14,12 +14,6 @@ A song recommendation system using nodejs and spotify api based on the users spo
 - Starts the Express app on a specified port, with CORS enabled.
 
 
-
-  
-## Screenshots
-
-![Swagger](https://raw.githubusercontent.com/baristaner/spotify-song-recommendation/master/assets/swagger.jpg)
-
   
 ## API Usage
 
